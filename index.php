@@ -1,0 +1,4 @@
+<?php 
+
+echo "simple api";
+
